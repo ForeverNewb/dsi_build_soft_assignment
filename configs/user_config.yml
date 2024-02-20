@@ -1,0 +1,5 @@
+ts: 1
+apikey: cd5cb46425573e2ef0de2636f73cbe02
+hash: 3f43be216ee7e942abef2c7a02b40262
+
+# Marvel ask for hash to be generated from ts, apikey and private key. Used this https://www.md5hashgenerator.com/ to generate hash
